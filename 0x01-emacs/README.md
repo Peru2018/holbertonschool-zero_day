@@ -1,0 +1,1 @@
+This project is designed to teach how to create a repository, a directory, files inside the directory and how to push them to github.
