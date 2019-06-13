@@ -9,3 +9,4 @@ To add your code into github you have to follow three steps.
 Run git add <filename>
 Run git commit -m "Message to commit"
 Run git push origin master
+Updated README.md message.
